@@ -1,3 +1,3 @@
 # connected-clients-wifi-ap
 
-![image](https://user-images.githubusercontent.com/11289080/117462851-59df0f80-af4f-11eb-952c-bec0342e6cf6.png)
+![example](https://user-images.githubusercontent.com/11289080/117464708-387f2300-af51-11eb-9865-5b5ba43dd311.png)
